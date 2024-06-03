@@ -1,1 +1,0 @@
-[![@harshmangalam's Holopin board](https://holopin.me/harshmangalam)](https://holopin.io/@harshmangalam)
