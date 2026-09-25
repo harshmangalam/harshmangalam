@@ -117,7 +117,11 @@ const harsh = {
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Read my articles on dev.to](https://dev.to/harshmangalam)
+- [One Semicolon Changed My Rust Code: Expressions vs Statements](https://dev.to/harshmangalam/one-semicolon-changed-my-rust-code-expressions-vs-statements-3iaf)
+- [UPI at Scale: Handling Millions of Payments](https://dev.to/harshmangalam/upi-at-scale-handling-millions-of-payments-47ah)
+- [What Really Happens When 25 Lakh People Click “Book” at the Same Time?](https://dev.to/harshmangalam/what-really-happens-when-25-lakh-people-click-book-at-the-same-time-4dl1)
+- [I Migrated a 61,000+ Line TypeScript Monorepo to Next.js 16.3 &amp; TypeScript 7 — The Results Surprised Me](https://dev.to/harshmangalam/i-migrated-a-61000-line-typescript-monorepo-to-nextjs-163-typescript-7-the-results-2obl)
+- [Your Go API Is Running—But Is It Healthy?](https://dev.to/harshmangalam/your-go-api-is-running-but-is-it-healthy-2jgo)
 <!-- BLOG-POST-LIST:END -->
 
 ---
